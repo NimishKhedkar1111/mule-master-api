@@ -5,6 +5,6 @@
 	xsi:schemaLocation="http://www.mulesoft.org/schema/mule/core http://www.mulesoft.org/schema/mule/core/current/mule.xsd">
 	<flow name="mule-master-apiFlow" doc:id="75df331d-2188-4c36-8629-59e3a32a78e0" >
 		<logger level="INFO" doc:name="Logger" doc:id="f144f9dd-f63b-4d3b-addd-d641dedccb8b" message="API started"/>
-		<logger level="INFO" doc:name="Logger1" doc:id="6cc7fc5f-5f1b-4218-b628-660c553387ee" message="API started" />
+		<logger level="INFO" doc:name="Logger1" doc:id="6cc7fc5f-5f1b-4218-b628-660c553387ee" message="API starte" />
 	</flow>
 </mule>
